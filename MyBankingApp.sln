@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyBankingApp", "MyBankingApp.csproj", "{D1C19233-54FF-4CC1-BA9C-1B689DCE1885}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyBankingApp", "src\MyBankingApp\MyBankingApp.csproj", "{D1C19233-54FF-4CC1-BA9C-1B689DCE1885}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankLibrary", "..\BankLibrary\BankLibrary.csproj", "{B92D3B9D-26C0-4103-AD65-2E53AC2FC684}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankLibrary", "src\BankLibrary\BankLibrary.csproj", "{B92D3B9D-26C0-4103-AD65-2E53AC2FC684}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankingTests", "..\BankingTests\BankingTests.csproj", "{3E79F6FD-4FE3-4BD5-89A4-E062A9E43740}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankingTests", "src\BankingTests\BankingTests.csproj", "{3E79F6FD-4FE3-4BD5-89A4-E062A9E43740}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
